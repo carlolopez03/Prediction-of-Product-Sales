@@ -8,4 +8,4 @@ This is one of many visualizations in my project. This particular plot is called
 
 ![corr_sp](https://github.com/carlolopez03/Prediction-of-Product-Sales/assets/139676444/d1c52e69-5e5e-440a-bb7a-d30675e5d9fc)
 
-The heat map is another type of plot. This plots spots out any values that are correlated with eachother.
+The heat map is another type of plot. This plot spots out any values that are correlated with eachother.
