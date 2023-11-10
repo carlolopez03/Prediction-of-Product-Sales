@@ -1,4 +1,4 @@
-# Predictiom of Product Sales
+# Prediction of Product Sales
 ## Predicting how many food items will be sold
 ### Author: Carlo Lopez
 
