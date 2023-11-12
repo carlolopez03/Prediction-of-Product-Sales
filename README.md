@@ -22,6 +22,7 @@ This is one of many visualizations in my project. This particular plot is called
 The heat map is another type of plot. This plot spots out any values that are correlated with eachother.
 
 ## Model
+ In conclusion, using the decision tree regressor model will predict about .595 of the food products being sold as the random forests model predicts only .59 of the products. The mean absolute error lowered from 780.3 to 738.3 showing us the testing data from the decision tree regressor model performed better than the random forests model.
 ## Recommendations: 
 ### For further information 
 For any additional questions, please contact @carlolobs65@gmail.com
