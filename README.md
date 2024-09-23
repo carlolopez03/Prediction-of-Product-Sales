@@ -14,14 +14,9 @@ Predicted sale prices for food items sold at various stores. The goal of this is
 ## Results 
 ![image](https://github.com/user-attachments/assets/06c024d6-b06a-4c4a-8b81-9266c7181026)
 
-- This graph shows that people buy more items when the prices are low.
-- As the price rises people seem less interested in buying.
+- Customers buy more items when they are on sale and more affordable.
+- As the items get more expensive, the customers seem less interested on the products.
   
-### Correlation between sales
-![corr_sp](https://github.com/carlolopez03/Prediction-of-Product-Sales/assets/139676444/d1c52e69-5e5e-440a-bb7a-d30675e5d9fc)
-
-The heat map is another type of plot. This plot spots out any values that are correlated with eachother.
-
 ## Model
  In conclusion, using the decision tree regressor model will predict about .595 of the food products being sold as the random forests model predicts only .59 of the products. The mean absolute error lowered from 780.3 to 738.3 showing us the testing data from the decision tree regressor model performed better than the random forests model.
 ## Recommendations: 
