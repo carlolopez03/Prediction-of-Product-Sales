@@ -1,5 +1,4 @@
 # Prediction of Product Sales
-## Predicting how many food items will be sold
 ### Author: Carlo Lopez
 
 ## Business Problem
@@ -8,7 +7,8 @@ Predicted sale prices for food items sold at various stores. The goal of this is
 ## Data
 
 ## Methods
-
+- Debugged data by identifying missing values and removing duplicated information.
+- Visulizations using MatPlotLib and Seaborn to get insights and fully understand each data.
 
 
 ## Results 
