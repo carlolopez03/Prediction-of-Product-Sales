@@ -16,9 +16,17 @@ Predicted sale prices for food items sold at various stores. The goal of this is
 
 - Customers buy more items when they are on sale and more affordable.
 - As the items get more expensive, the customers seem less interested on the products.
-  
+
+![image](https://github.com/user-attachments/assets/639f3bed-e407-419b-8a37-6b3fedcd814b)
+- Fruits, vegetables, and snack foods are the most purchased products during a sale.
+- Customers are least likely to purchase seafood over any other product.
+
+
+
 ## Model
- In conclusion, using the decision tree regressor model will predict about .595 of the food products being sold as the random forests model predicts only .59 of the products. The mean absolute error lowered from 780.3 to 738.3 showing us the testing data from the decision tree regressor model performed better than the random forests model.
+
 ## Recommendations: 
+- Lower sale prices on seafood and breakfast so the customers can be more interested in buying these products.
+- 
 ### For further information 
 For any additional questions, please contact @carlolobs65@gmail.com
